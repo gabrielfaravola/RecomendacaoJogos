@@ -23,6 +23,12 @@ A aplicação utiliza conceitos de grafos para resolver um problema de **Sistema
 
 ---
 
+## 🌍 Objetivos de Desenvolvimento Sustentável (ODS)
+
+ODS 9 - Indústria, Inovação e Infraestrutura: Desenvolvimento de algoritmos de inovação tecnológica para o setor de software e entretenimento.
+
+---
+
 ## 🔍 Modelagem do Problema
 * **Vértices ($V$):** Representam os títulos dos jogos.
 * **Arestas ($E$):** Representam a relação de recomendação ou similaridade entre dois títulos.
@@ -47,11 +53,6 @@ A aplicação utiliza conceitos de grafos para resolver um problema de **Sistema
 | **k** | 🔬 Analisar Propriedades | Verifica conectividade, euler, coloração e hamilton do grafo. |
 | **l** | 🚪 Sair | Encerra a execução do programa. |
 
----
-
-## 🌍 Objetivos de Desenvolvimento Sustentável (ODS)
-
-ODS 9 - Indústria, Inovação e Infraestrutura: Desenvolvimento de algoritmos de inovação tecnológica para o setor de software e entretenimento.
 
 ---
 
