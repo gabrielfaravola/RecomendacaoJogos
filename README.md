@@ -1,9 +1,21 @@
-# 🎮 Sistema de Recomendação de Jogos
+# 🎮 Similaridade de gêneros para Recomendação de Jogos Digitais
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Teoria_dos_Grafos-Mackenzie-red?style=for-the-badge" alt="Mackenzie" />
   <img src="https://img.shields.io/badge/Status-Parte_3_Concluída-green?style=for-the-badge" alt="Status" />
 </p>
+
+## Disciplina de grafos
+Universidade Presbiteriana Mackenzie\
+Curso de Ciência da Computação
+
+Professor Ivan Carlos Alcantara de Oliveira
+
+## Alunos
+
+Beatriz Aparecida de Mello Barbosa - RA: 10354067\
+Gabriel Pereira Faravola - RA: 10427189\
+Matheus Veiga Bacetic Joaquim - RA: 10425638
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido para a disciplina de **Teoria dos Grafos** na **Faculdade de Computação e Informática (FCI)** da Universidade Presbiteriana Mackenzie. 
