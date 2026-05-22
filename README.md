@@ -31,7 +31,7 @@ ODS 9 - Indústria, Inovação e Infraestrutura: Desenvolvimento de algoritmos d
 
 ## 🔍 Modelagem do Problema
 * **Tipo de Grafo:** Não-orientado com peso nas arestas (Tipo 2).
-* **Dados importados do kaggle
+* Dados importados do kaggle
 * **Vértices ($V$):** Representam os títulos dos jogos.
 * **Arestas ($E$):** Representam a relação de recomendação ou similaridade entre dois títulos.
 * **Pesos ($W$):** Quantificam a força da recomendação (ex: número de tags coincidentes).
