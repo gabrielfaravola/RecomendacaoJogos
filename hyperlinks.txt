@@ -1,0 +1,7 @@
+Hyperlinks utilizados no projeto
+
+Github: https://github.com/gabrielfaravola/RecomendacaoJogos/tree/main
+
+Kaggle: https://www.kaggle.com/datasets/jypenpen54534/steam-games-dataset-2021-2025-65k
+
+Youtube: https://youtu.be/MkJk51k9T_E
