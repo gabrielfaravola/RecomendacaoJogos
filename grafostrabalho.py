@@ -272,12 +272,12 @@ class GrafoRecomendacao:
         jogos_similares = sorted(self.adj[ID].items(), key=lambda item: item[1], reverse=True)
         
         print("\n==================== RECOMENDAÇÕES ====================")
-        print(f"Jogos semelhantes a \"{self.rotulos[ID]}\" (grau: {len(jogos_similares)})\n")
+        print(f"Top 10 jogos semelhantes a \"{self.rotulos[ID]}\" (grau: {len(jogos_similares)})\n")
 
         for i in range(len(jogos_similares)):
             if i >= 10: # Apenas 10 recomendações
                 break
-            print(f"{self.rotulos[jogos_similares[i][0]]} ({jogos_similares[i][1]} generos em comum)")
+            print(f"[{i+1}] {self.rotulos[jogos_similares[i][0]]} ({jogos_similares[i][1]} generos em comum)")
     
     def analisar_propriedades(self):
         if self.V == 0:
